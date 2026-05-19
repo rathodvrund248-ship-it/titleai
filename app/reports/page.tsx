@@ -130,7 +130,7 @@ export default function Reports() {
                         <div style={{ textAlign: 'center', padding: '80px 32px' }}>
                             <div style={{ fontSize: '48px', marginBottom: '24px' }}>📋</div>
                             <div style={{ fontSize: '24px', fontWeight: '700', color: '#fff', marginBottom: '12px' }}>Generate Legal Scrutiny Report</div>
-                            <div style={{ fontSize: '14px', color: '#6b7280', marginBottom: '8px' }}>Brickby format — Part I, II, III, IV</div>
+                            <div style={{ fontSize: '14px', color: '#6b7280', marginBottom: '8px' }}>Document Scrutiny Report — Part I, II, III, IV</div>
                             <div style={{ fontSize: '13px', color: '#4b5563', marginBottom: '40px' }}>Upload documents first — AI will analyse and generate complete report</div>
                             <button onClick={generateReport} style={{ background: 'linear-gradient(135deg, #f59e0b, #d97706)', border: 'none', borderRadius: '12px', padding: '16px 48px', color: '#000', fontSize: '16px', fontWeight: '700', cursor: 'pointer', boxShadow: '0 0 40px rgba(245,158,11,0.4)' }}>
                                 ⚡ GENERATE REPORT
